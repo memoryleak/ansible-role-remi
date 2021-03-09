@@ -1,0 +1,7 @@
+---
+- name: Converge
+  hosts: all
+  tasks:
+    - name: "Include memoryleak.remi"
+      include_role:
+        name: "memoryleak.remi"

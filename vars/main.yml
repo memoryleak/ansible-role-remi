@@ -1,0 +1,17 @@
+---
+# vars file for memoryleak.remi
+remi_keys:
+  '7': https://rpms.remirepo.net/RPM-GPG-KEY-remi
+  '8': https://rpms.remirepo.net/RPM-GPG-KEY-remi2018
+  '31': https://rpms.remirepo.net/RPM-GPG-KEY-remi2019
+  '32': https://rpms.remirepo.net/RPM-GPG-KEY-remi2020
+  '33': https://rpms.remirepo.net/RPM-GPG-KEY-remi2020
+  '34': https://rpms.remirepo.net/RPM-GPG-KEY-remi2021
+
+remi_repos:
+  '7': https://rpms.remirepo.net/enterprise/remi-release-7.rpm
+  '8': https://rpms.remirepo.net/enterprise/remi-release-8.rpm
+  '31': https://rpms.remirepo.net/fedora/remi-release-31.rpm
+  '32': https://rpms.remirepo.net/fedora/remi-release-32.rpm
+  '33': https://rpms.remirepo.net/fedora/remi-release-33.rpm
+  '34': https://rpms.remirepo.net/fedora/remi-release-34.rpm

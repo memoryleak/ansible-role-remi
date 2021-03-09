@@ -1,0 +1,4 @@
+---
+# defaults file for memoryleak.remi
+remi_enable_repos:
+  - remi
